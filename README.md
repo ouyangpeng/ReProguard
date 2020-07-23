@@ -1,3 +1,5 @@
+介绍文档： [【如何通过 Mapping 文件反混淆 】](https://blog.csdn.net/beijing2008lm/article/details/106797824)
+
 ReProguard，通过 mapping 文件反混淆
 
 使用说明：
